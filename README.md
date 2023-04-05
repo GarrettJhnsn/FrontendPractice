@@ -7,7 +7,10 @@ Small Projects To Practice Frontend
   ![image](https://user-images.githubusercontent.com/45772450/230177086-e8df9507-c1ac-49d4-ad2d-9a84366a48a9.png)
 3. Rotating Navigation
   ![image](https://user-images.githubusercontent.com/45772450/230199443-6471c0be-b868-4d79-b348-d612b1f4db26.png)
-4. Hidden Search Bar
+4. Hidden Search Widget                                                                                         
+  ![image](https://user-images.githubusercontent.com/45772450/230210184-cdea0927-7247-4b2e-b255-3cc40108bac6.png)
+  ![image](https://user-images.githubusercontent.com/45772450/230210233-5c1f13f3-bbbf-4ace-a9f0-2eb309965113.png)
+
 
 
 
