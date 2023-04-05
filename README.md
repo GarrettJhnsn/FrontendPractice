@@ -6,6 +6,7 @@ Small Projects To Practice Frontend
 2. Progress Bar
 ![image](https://user-images.githubusercontent.com/45772450/230177086-e8df9507-c1ac-49d4-ad2d-9a84366a48a9.png)
 3. Rotating Navigation
+
 [a]
 ![image](https://user-images.githubusercontent.com/45772450/230199354-87c5ed12-d1d7-4d2c-8ca1-53098862c412.png)
 [b]
