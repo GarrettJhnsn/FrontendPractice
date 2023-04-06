@@ -10,6 +10,10 @@ Small Projects To Practice Frontend
 4. Hidden Search Widget                                                                                         
   ![image](https://user-images.githubusercontent.com/45772450/230210184-cdea0927-7247-4b2e-b255-3cc40108bac6.png)
   ![image](https://user-images.githubusercontent.com/45772450/230210233-5c1f13f3-bbbf-4ace-a9f0-2eb309965113.png)
+5. Feedback Box
+ 
+  ![image](https://user-images.githubusercontent.com/45772450/230441597-8a6c3fb2-ef2e-4085-8479-d2c7f5853402.png)
+  ![image](https://user-images.githubusercontent.com/45772450/230441662-14433663-b68e-4c02-8e5f-c7daacde0bc3.png)
 
 
 
