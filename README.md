@@ -18,6 +18,11 @@ Small Projects To Practice Frontend
 6. Pokedex
   ![image](https://user-images.githubusercontent.com/45772450/230465785-4e6f9165-aaeb-4fb4-be4b-24d7bbe19a8f.png)
 
+7. MovieApp
+  ![image](https://user-images.githubusercontent.com/45772450/230656937-960bab62-2ff9-4f7c-8423-40d9a5eca6b5.png)
+  ![image](https://user-images.githubusercontent.com/45772450/230657338-4132bf99-3399-42eb-9dc2-e68afd4850dc.png)
+
+
 
 
 
