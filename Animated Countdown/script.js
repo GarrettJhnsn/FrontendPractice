@@ -17,11 +17,11 @@ function resetDOM() {
 }
 
 function runAnimation() {
-  nums.forEach((num, idx) => {
+  nums.forEach((num, index) => {
     const nextToLast = nums.length - 1
 
     num.addEventListener('animationend', (e) => {
-      if (e.animationName === 'goIn' && idx !== nextToLast) {
+      if (e.animationName === 'goIn' && index !== nextToLast) {
         num.classList.remove('in')
         num.classList.add('out')
       } else if (e.animationName === 'goOut' && num.nextElementSibling) {
