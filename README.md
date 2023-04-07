@@ -21,6 +21,10 @@ Small Projects To Practice Frontend
 7. MovieApp
   ![image](https://user-images.githubusercontent.com/45772450/230656937-960bab62-2ff9-4f7c-8423-40d9a5eca6b5.png)
   ![image](https://user-images.githubusercontent.com/45772450/230657338-4132bf99-3399-42eb-9dc2-e68afd4850dc.png)
+  
+8. Testimonial
+  ![image](https://user-images.githubusercontent.com/45772450/230665512-f28cffd2-2b7b-4d0c-a387-c823d32e77c1.png)
+
 
 
 
